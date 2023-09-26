@@ -11,7 +11,7 @@ function App() {
             className="rounded-[10px]"
           />
         </div>
-        <h1 className="px-3 text-[22px] text-xl font-bold text-dark-blue">
+        <h1 className="px-3 text-[22px] font-bold leading-tight text-dark-blue">
           Improve your front-end skills by building projects
         </h1>
         <p className="px-3 text-[15px] leading-tight tracking-[0.01em] text-grayish-blue">
