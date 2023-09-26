@@ -47,4 +47,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Github - [Steven Nguyen](https://github.com/snguyen56)
 - LinkedIn - [Steven Nguyen](https://www.linkedin.com/in/steven-nguyen-bb5568216/)
-- Frontend Mentor - [@snguyen56](https://www.frontendmentor.io/profile/snguyen56yourusername)
+- Frontend Mentor - [@snguyen56](https://www.frontendmentor.io/profile/snguyen56)
